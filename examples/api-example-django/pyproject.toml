@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "forecast-django"
+version = "0.1.0"
+description = ""
+authors = ["Davide <davide.burba@hotmail.com>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = "^4.2.1"
+lightgbm = "^3.3.5"
+pandas = "^2.0.1"
+djangorestframework = "^3.14.0"
+pytrends = "^4.9.2"
+drf-extensions = "^0.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
