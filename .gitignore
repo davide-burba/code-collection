@@ -19,4 +19,6 @@ __pycache*
 *.vscode
 *.sqlite3
 pics
+*.txti
+*.db
 *.txt
