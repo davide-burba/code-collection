@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "code-collection"
+version = "0.1.0"
+description = ""
+authors = ["Davide <davide.burba@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.0.1"
+scikit-learn = "^1.2.2"
+lightgbm = "^3.3.5"
+plotly = "^5.14.1"
+nbformat = ">=4.2.0"
+
+[tool.poetry.group.dev.dependencies]
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

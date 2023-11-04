@@ -2,16 +2,21 @@
 
 This repository contains the collection of code examples used for [my blog articles](https://medium.com/@davide.burba).
 
+**Topics**: `web development`, `machine learning`, `forecasting`.
 
-## Environment
+## Usage
+Navigate to the relevant subfolders inside `examples/` for code and resources associated with specific articles. Refer to individual `README.md` files for detailed instructions.
 
-I use [Poetry](https://python-poetry.org) to manage dependencies. To execute the tutorials in the same environment, you can simply run:
-```bash
-poetry install --no-root
-```
-To make the virtual environment available as a jupyter kernel, you can run:
-```bash
-poetry run python -m ipykernel install --user --name=code-collection
-```
+## Table of Contents
 
-Some examples need different environments to be run. For these, there are specific instructions in the README inside the example folder.
+**Web Development:**
+- [Go TimeSeries API](./examples/go-timeseries-api/)
+- [Django Forecasting API](./examples/api-example-django/)
+
+**Forecasting:**
+- [Horizon as a Feature](./examples/horizon-as-a-feature/)
+- [Why Backtesting Matters](./examples/why-backtesting-matters/)
+- [Local vs Global Forecasting](./examples/local-vs-global-forecasting/)
+
+**Machine Learning**
+- [Quantile Matching](./examples/quantile-matching/)
