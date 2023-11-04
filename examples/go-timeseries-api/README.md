@@ -37,7 +37,7 @@ The application supports some optional command-line arguments:
 go run main.go -db=<DATABASE> -proxy=<PROXY> -port=<PORT>
 ```
 where:
-- `-db`: Specifies the name of the database file. Default: `timeseries.db`.
+- `db`: Specifies the name of the database file. Default: `timeseries.db`.
 - `proxy`: Sets the trusted proxy for the server. Default: `127.0.0.1`.
 - `port`: Defines the port number for the server to listen on. Default: `8080`.
 
