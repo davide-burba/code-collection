@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "llm-on-html"
+version = "0.1.0"
+description = ""
+authors = ["Davide <davide.burba@hotmail.com>"]
+readme = "README.md"
+packages = [{include = "llm_on_html"}]
+
+[tool.poetry.dependencies]
+python = "^3.9,<3.13"
+ipykernel = "^6.26.0"
+iprogress = "^0.4"
+jupyterlab = "^4.0.8"
+ipywidgets = "^8.1.1"
+googlesearch-python = "^1.2.3"
+beautifulsoup4 = "^4.12.2"
+pandas = "^2.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
