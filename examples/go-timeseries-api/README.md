@@ -2,8 +2,6 @@
 
 In this example we showcase the implementation of a REST API in GO to perform CRUD operations on timeseries, and compute a set of statistics.
 
-The related article is available [here](https://medium.com/towards-data-science/build-a-rest-api-with-go-data-analytics-for-time-series-8d3f0747665c).
-
 We use [Gin](https://gin-gonic.com/) as Web Framework, and [Gorm](https://gorm.io/index.html) as ORM.
 
 

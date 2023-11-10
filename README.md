@@ -19,4 +19,5 @@ Navigate to the relevant subfolders inside `examples/` for code and resources as
 - [Local vs Global Forecasting](./examples/local-vs-global-forecasting/)
 
 **Machine Learning**
+- [Scraping with GPT and Google Search](./examples/scraping-gpt-googlesearch/)
 - [Quantile Matching](./examples/quantile-matching/)
