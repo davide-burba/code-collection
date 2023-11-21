@@ -2,7 +2,7 @@
 
 This project showcases a minimal example on how to perform automated web scraping with [GPT](https://platform.openai.com/docs/guides/gpt/gpt-models) and the [googlesearch-python](https://pypi.org/project/googlesearch-python/) package.
 
-The related article is coming soon.
+The related article is available [here](https://medium.com/@davide.burba/automated-web-scraping-with-gpt-and-google-search-f8891956645a#a966).
 
 ## Environment
 
