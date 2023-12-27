@@ -7,30 +7,16 @@ Navigate to the relevant subfolders inside [`code/`](code/) for code and resourc
 
 ## Table of Contents
 
-- [Client side sentiment analysis](code/react-sentiment-analysis/)
-`react` `nlp` `ui`
-- [Django Forecasting API](code/api-example-django/)
-`python`
-`rest-api`
-`forecasting`
-- [Go TimeSeries API](code/go-timeseries-api/): 
-`go`
-`rest-api`
-- [Horizon as a Feature](code/horizon-as-a-feature/)
-`python`
-`forecasting`
-- [Local vs Global Forecasting](code/local-vs-global-forecasting/)
-`python`
-`forecasting`
-- [Quantile Matching](code/quantile-matching/)
-`python`
-`ml`
-- [Scraping with GPT and Google Search](code/scraping-gpt-googlesearch/)
-`python`
-`NLP`
-- [Why Backtesting Matters](code/why-backtesting-matters/)
-`python`
-`forecasting`
+| Project | Tags |
+|---------|------|
+| [Client side sentiment analysis](code/client-side-sentiment-analysis/) | `react` `nlp` `ui` |
+| [Django forecasting API](code/django-forecasting-api/) | `python` `rest-api` `forecasting` |
+| [Go timeseries API](code/go-timeseries-api/) | `go` `rest-api` |
+| [Horizon as a feature](code/horizon-as-a-feature/) | `python` `forecasting` |
+| [Local vs global forecasting](code/local-vs-global-forecasting/) | `python` `forecasting` |
+| [Quantile matching](code/quantile-matching/) | `python` `ml` |
+| [Scraping with GPT and Google search](code/scraping-with-gpt-and-google-search/) | `python` `nlp` |
+| [Why backtesting matters](code/why-backtesting-matters/) | `python` `forecasting` |
 
 Tags:
 `python`

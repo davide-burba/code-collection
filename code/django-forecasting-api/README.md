@@ -8,12 +8,6 @@ For this example we don't use the shared environment at the root of the reposito
 
 To get started, run the following snippet:
 ```bash
-# Clone the project
-git clone git@github.com:davide-burba/code-collection.git
-
-# Move to the right folder
-cd code-collection/examples/api-example-django
-
 # Launch the app.
 docker compose up -d
 
