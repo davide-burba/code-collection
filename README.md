@@ -2,22 +2,42 @@
 
 This repository contains the collection of code examples used for [my blog articles](https://medium.com/@davide.burba).
 
-**Topics**: `web development`, `machine learning`, `forecasting`.
-
 ## Usage
 Navigate to the relevant subfolders inside [`code/`](code/) for code and resources associated with specific articles. Refer to individual `README.md` files for detailed instructions.
 
 ## Table of Contents
 
-**Web Development:**
-- [Go TimeSeries API](code/go-timeseries-api/)
+- [Client side sentiment analysis](code/react-sentiment-analysis/)
+`react` `nlp` `ui`
 - [Django Forecasting API](code/api-example-django/)
-
-**Forecasting:**
+`python`
+`rest-api`
+`forecasting`
+- [Go TimeSeries API](code/go-timeseries-api/): 
+`go`
+`rest-api`
 - [Horizon as a Feature](code/horizon-as-a-feature/)
-- [Why Backtesting Matters](code/why-backtesting-matters/)
+`python`
+`forecasting`
 - [Local vs Global Forecasting](code/local-vs-global-forecasting/)
-
-**Machine Learning**
-- [Scraping with GPT and Google Search](code/scraping-gpt-googlesearch/)
+`python`
+`forecasting`
 - [Quantile Matching](code/quantile-matching/)
+`python`
+`ml`
+- [Scraping with GPT and Google Search](code/scraping-gpt-googlesearch/)
+`python`
+`NLP`
+- [Why Backtesting Matters](code/why-backtesting-matters/)
+`python`
+`forecasting`
+
+Tags:
+`python`
+`go`
+`react`
+`rest-api`
+`forecasting`
+`nlp`
+`ml`
+`ui`
