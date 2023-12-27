@@ -5,19 +5,19 @@ This repository contains the collection of code examples used for [my blog artic
 **Topics**: `web development`, `machine learning`, `forecasting`.
 
 ## Usage
-Navigate to the relevant subfolders inside `examples/` for code and resources associated with specific articles. Refer to individual `README.md` files for detailed instructions.
+Navigate to the relevant subfolders inside [`code/`](code/) for code and resources associated with specific articles. Refer to individual `README.md` files for detailed instructions.
 
 ## Table of Contents
 
 **Web Development:**
-- [Go TimeSeries API](./examples/go-timeseries-api/)
-- [Django Forecasting API](./examples/api-example-django/)
+- [Go TimeSeries API](code/go-timeseries-api/)
+- [Django Forecasting API](code/api-example-django/)
 
 **Forecasting:**
-- [Horizon as a Feature](./examples/horizon-as-a-feature/)
-- [Why Backtesting Matters](./examples/why-backtesting-matters/)
-- [Local vs Global Forecasting](./examples/local-vs-global-forecasting/)
+- [Horizon as a Feature](code/horizon-as-a-feature/)
+- [Why Backtesting Matters](code/why-backtesting-matters/)
+- [Local vs Global Forecasting](code/local-vs-global-forecasting/)
 
 **Machine Learning**
-- [Scraping with GPT and Google Search](./examples/scraping-gpt-googlesearch/)
-- [Quantile Matching](./examples/quantile-matching/)
+- [Scraping with GPT and Google Search](code/scraping-gpt-googlesearch/)
+- [Quantile Matching](code/quantile-matching/)
